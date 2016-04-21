@@ -1,0 +1,11 @@
+C:\Users\OMISAKIN OLUWATOBI\Documents\Visual Studio 2008\Projects\JohnList\LTSAM Calculator\LTSAM Calculator\bin\Debug\LTSAM Calculator.exe
+C:\Users\OMISAKIN OLUWATOBI\Documents\Visual Studio 2008\Projects\JohnList\LTSAM Calculator\LTSAM Calculator\bin\Debug\LTSAM Calculator.pdb
+C:\Users\OMISAKIN OLUWATOBI\Documents\Visual Studio 2008\Projects\JohnList\LTSAM Calculator\LTSAM Calculator\bin\Debug\LTSAM Calculator.xml
+C:\Users\OMISAKIN OLUWATOBI\Documents\Visual Studio 2008\Projects\JohnList\LTSAM Calculator\LTSAM Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OMISAKIN OLUWATOBI\Documents\Visual Studio 2008\Projects\JohnList\LTSAM Calculator\LTSAM Calculator\obj\Debug\LTSAM_Calculator.AboutLTSAM.resources
+C:\Users\OMISAKIN OLUWATOBI\Documents\Visual Studio 2008\Projects\JohnList\LTSAM Calculator\LTSAM Calculator\obj\Debug\LTSAM_Calculator.calc1.resources
+C:\Users\OMISAKIN OLUWATOBI\Documents\Visual Studio 2008\Projects\JohnList\LTSAM Calculator\LTSAM Calculator\obj\Debug\LTSAM_Calculator.Resources.resources
+C:\Users\OMISAKIN OLUWATOBI\Documents\Visual Studio 2008\Projects\JohnList\LTSAM Calculator\LTSAM Calculator\obj\Debug\LTSAM Calculator.vbproj.GenerateResource.Cache
+C:\Users\OMISAKIN OLUWATOBI\Documents\Visual Studio 2008\Projects\JohnList\LTSAM Calculator\LTSAM Calculator\obj\Debug\LTSAM Calculator.exe
+C:\Users\OMISAKIN OLUWATOBI\Documents\Visual Studio 2008\Projects\JohnList\LTSAM Calculator\LTSAM Calculator\obj\Debug\LTSAM Calculator.xml
+C:\Users\OMISAKIN OLUWATOBI\Documents\Visual Studio 2008\Projects\JohnList\LTSAM Calculator\LTSAM Calculator\obj\Debug\LTSAM Calculator.pdb
